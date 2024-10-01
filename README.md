@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                           | Difficulty   | Practice                                                                                                                           |
-|---------|------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                          | Difficulty   | Practice                                                                                                                           |
+|---------|-----------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Initialize Git Project                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-initialize-git-project-385166'>Start Challenge</a>                         |
 |      02 | 🎯 Create Your First Git Repository            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-create-your-first-git-repository-12632'>Start Challenge</a>                |
 |      03 | 🎯 Configure Git User Information              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-configure-git-user-information-challenge-12626'>Start Challenge</a>        |
