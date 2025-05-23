@@ -31,30 +31,30 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                           | Dificuldade   | Prática                                                                                                                          |
 |----------|------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 Inicializar Projeto Git                     | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-initialize-git-project-385166'>Iniciar Desafio</a>                         |
-|       02 | 🎯 Add a Submodule                             | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-add-a-submodule-challenge-12611'>Iniciar Desafio</a>                       |
-|       03 | 🎯 Clone Missing Submodules                    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-clone-missing-submodules-challenge-12620'>Iniciar Desafio</a>              |
-|       04 | 🎯 Disable Fast Forward Merging                | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-disable-fast-forward-merging-challenge-12642'>Iniciar Desafio</a>          |
-|       05 | 🎯 Edit Git Configuration File                 | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-edit-git-configuration-file-challenge-12645'>Iniciar Desafio</a>           |
-|       06 | 🎯 Get the Current Branch Name                 | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-get-the-current-branch-name-challenge-12633'>Iniciar Desafio</a>           |
-|       07 | 🎯 Merge a Branch                              | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-merge-a-branch-challenge-12655'>Iniciar Desafio</a>                        |
-|       08 | 🎯 Set Default Push Branch Name                | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-set-default-push-branch-name-challenge-12672'>Iniciar Desafio</a>          |
-|       09 | 🎯 View Changes Between Commits                | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-view-changes-between-commits-challenge-12684'>Iniciar Desafio</a>          |
-|       10 | 🎯 View Undo History                           | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-view-undo-history-challenge-12696'>Iniciar Desafio</a>                     |
-|       11 | 🎯 Cancel File Change                          | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-cancel-file-change-387714'>Iniciar Desafio</a>                             |
-|       12 | 🎯 Add Files to the Staging Area               | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-add-files-to-the-staging-area-challenge-12675'>Iniciar Desafio</a>         |
-|       13 | 🎯 Autocorrect Git Commands                    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-autocorrect-git-commands-challenge-12614'>Iniciar Desafio</a>              |
-|       14 | 🎯 Clone the First Trending Repository         | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-clone-the-first-trending-repository-12621'>Iniciar Desafio</a>             |
-|       15 | 🎯 Configure the git text editor               | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-configure-the-git-text-editor-challenge-12673'>Iniciar Desafio</a>         |
-|       16 | 🎯 View Current Status                         | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-view-current-status-challenge-12695'>Iniciar Desafio</a>                   |
-|       17 | 🎯 View a Visual Graph of the Repository       | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-view-a-visual-graph-of-the-repository-challenge-12685'>Iniciar Desafio</a> |
-|       18 | 🎯 Git Configuration with GitHub               | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-git-configuration-with-github-23'>Iniciar Desafio</a>                      |
-|       19 | 🎯 Git Fundamentals: Add, Commit, Status, Diff | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/shell-git-fundamentals-add-commit-status-diff-387715'>Iniciar Desafio</a>      |
-|       20 | 🎯 Create Your First Git Repository            | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/git-create-your-first-git-repository-12632'>Iniciar Desafio</a>                |
+|       01 | 🎯 Inicializar Projeto Git                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-initialize-git-project-385166'>Iniciar Desafio</a>                         |
+|       02 | 🎯 Add a Submodule                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-add-a-submodule-challenge-12611'>Iniciar Desafio</a>                       |
+|       03 | 🎯 Clone Missing Submodules                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-clone-missing-submodules-challenge-12620'>Iniciar Desafio</a>              |
+|       04 | 🎯 Disable Fast Forward Merging                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-disable-fast-forward-merging-challenge-12642'>Iniciar Desafio</a>          |
+|       05 | 🎯 Edit Git Configuration File                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-edit-git-configuration-file-challenge-12645'>Iniciar Desafio</a>           |
+|       06 | 🎯 Get the Current Branch Name                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-get-the-current-branch-name-challenge-12633'>Iniciar Desafio</a>           |
+|       07 | 🎯 Merge a Branch                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-merge-a-branch-challenge-12655'>Iniciar Desafio</a>                        |
+|       08 | 🎯 Set Default Push Branch Name                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-set-default-push-branch-name-challenge-12672'>Iniciar Desafio</a>          |
+|       09 | 🎯 View Changes Between Commits                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-view-changes-between-commits-challenge-12684'>Iniciar Desafio</a>          |
+|       10 | 🎯 View Undo History                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-view-undo-history-challenge-12696'>Iniciar Desafio</a>                     |
+|       11 | 🎯 Cancel File Change                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-cancel-file-change-387714'>Iniciar Desafio</a>                             |
+|       12 | 🎯 Add Files to the Staging Area               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-add-files-to-the-staging-area-challenge-12675'>Iniciar Desafio</a>         |
+|       13 | 🎯 Autocorrect Git Commands                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-autocorrect-git-commands-challenge-12614'>Iniciar Desafio</a>              |
+|       14 | 🎯 Clone the First Trending Repository         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-clone-the-first-trending-repository-12621'>Iniciar Desafio</a>             |
+|       15 | 🎯 Configure the git text editor               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-configure-the-git-text-editor-challenge-12673'>Iniciar Desafio</a>         |
+|       16 | 🎯 View Current Status                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-view-current-status-challenge-12695'>Iniciar Desafio</a>                   |
+|       17 | 🎯 View a Visual Graph of the Repository       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-view-a-visual-graph-of-the-repository-challenge-12685'>Iniciar Desafio</a> |
+|       18 | 🎯 Git Configuration with GitHub               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-git-configuration-with-github-23'>Iniciar Desafio</a>                      |
+|       19 | 🎯 Git Fundamentals: Add, Commit, Status, Diff | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/shell-git-fundamentals-add-commit-status-diff-387715'>Iniciar Desafio</a>      |
+|       20 | 🎯 Create Your First Git Repository            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-create-your-first-git-repository-12632'>Iniciar Desafio</a>                |
 
 ## Mais
 
-- 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Git Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- 🔗 [Git Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Git Tutoriais Gratuitos](https://github.com/labex-labs/git-free-tutorials)
 
