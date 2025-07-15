@@ -13,6 +13,31 @@
 ![Git](https://img.shields.io/badge/Git-whitesmoke?style=for-the-badge&logo=git)
 
 
+## 연습
+
+|   인덱스 | 이름                                              | 난이도   | 연습                                                                                                                       |
+|----------|---------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 🔵 Git 프로젝트 초기화                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-initialize-git-project-385166'>도전 시작</a>                         |
+|       02 | 🎯 🟢 Add a Submodule                             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-add-a-submodule-challenge-12611'>도전 시작</a>                       |
+|       03 | 🎯 🟢 Clone Missing Submodules                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-clone-missing-submodules-challenge-12620'>도전 시작</a>              |
+|       04 | 🎯 🟢 Disable Fast Forward Merging                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-disable-fast-forward-merging-challenge-12642'>도전 시작</a>          |
+|       05 | 🎯 🟢 Edit Git Configuration File                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-edit-git-configuration-file-challenge-12645'>도전 시작</a>           |
+|       06 | 🎯 🟢 Get the Current Branch Name                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-get-the-current-branch-name-challenge-12633'>도전 시작</a>           |
+|       07 | 🎯 🟢 Merge a Branch                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-merge-a-branch-challenge-12655'>도전 시작</a>                        |
+|       08 | 🎯 🟢 Set Default Push Branch Name                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-set-default-push-branch-name-challenge-12672'>도전 시작</a>          |
+|       09 | 🎯 🟢 View Changes Between Commits                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-changes-between-commits-challenge-12684'>도전 시작</a>          |
+|       10 | 🎯 🟢 View Undo History                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-undo-history-challenge-12696'>도전 시작</a>                     |
+|       11 | 🎯 🔵 Cancel File Change                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-cancel-file-change-387714'>도전 시작</a>                             |
+|       12 | 🎯 🟢 Add Files to the Staging Area               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-add-files-to-the-staging-area-challenge-12675'>도전 시작</a>         |
+|       13 | 🎯 🔵 Autocorrect Git Commands                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-autocorrect-git-commands-challenge-12614'>도전 시작</a>              |
+|       14 | 🎯 🟢 Clone the First Trending Repository         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-clone-the-first-trending-repository-12621'>도전 시작</a>             |
+|       15 | 🎯 🟢 Configure the git text editor               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-configure-the-git-text-editor-challenge-12673'>도전 시작</a>         |
+|       16 | 🎯 🟢 View Current Status                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-current-status-challenge-12695'>도전 시작</a>                   |
+|       17 | 🎯 🟢 View a Visual Graph of the Repository       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-a-visual-graph-of-the-repository-challenge-12685'>도전 시작</a> |
+|       18 | 🎯 🟢 Git Configuration with GitHub               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-configuration-with-github-23'>도전 시작</a>                      |
+|       19 | 🎯 🔵 Git Fundamentals: Add, Commit, Status, Diff | 초급     | <a target='_blank' href='https://labex.io/ko/labs/shell-git-fundamentals-add-commit-status-diff-387715'>도전 시작</a>      |
+|       20 | 🎯 🟢 Create Your First Git Repository            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-create-your-first-git-repository-12632'>도전 시작</a>                |
+
 ## 환경
 
 LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
@@ -23,34 +48,9 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
 - 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
 - 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- ChatGPT 를 기반으로 구축된 AI 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
+- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 연습
-
-|   인덱스 | 이름                                           | 난이도   | 연습                                                                                                                       |
-|----------|------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 Git 프로젝트 초기화                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-initialize-git-project-385166'>도전 시작</a>                         |
-|       02 | 🎯 Add a Submodule                             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-add-a-submodule-challenge-12611'>도전 시작</a>                       |
-|       03 | 🎯 Clone Missing Submodules                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-clone-missing-submodules-challenge-12620'>도전 시작</a>              |
-|       04 | 🎯 Disable Fast Forward Merging                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-disable-fast-forward-merging-challenge-12642'>도전 시작</a>          |
-|       05 | 🎯 Edit Git Configuration File                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-edit-git-configuration-file-challenge-12645'>도전 시작</a>           |
-|       06 | 🎯 Get the Current Branch Name                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-get-the-current-branch-name-challenge-12633'>도전 시작</a>           |
-|       07 | 🎯 Merge a Branch                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-merge-a-branch-challenge-12655'>도전 시작</a>                        |
-|       08 | 🎯 Set Default Push Branch Name                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-set-default-push-branch-name-challenge-12672'>도전 시작</a>          |
-|       09 | 🎯 View Changes Between Commits                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-changes-between-commits-challenge-12684'>도전 시작</a>          |
-|       10 | 🎯 View Undo History                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-undo-history-challenge-12696'>도전 시작</a>                     |
-|       11 | 🎯 Cancel File Change                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-cancel-file-change-387714'>도전 시작</a>                             |
-|       12 | 🎯 Add Files to the Staging Area               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-add-files-to-the-staging-area-challenge-12675'>도전 시작</a>         |
-|       13 | 🎯 Autocorrect Git Commands                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-autocorrect-git-commands-challenge-12614'>도전 시작</a>              |
-|       14 | 🎯 Clone the First Trending Repository         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-clone-the-first-trending-repository-12621'>도전 시작</a>             |
-|       15 | 🎯 Configure the git text editor               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-configure-the-git-text-editor-challenge-12673'>도전 시작</a>         |
-|       16 | 🎯 View Current Status                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-current-status-challenge-12695'>도전 시작</a>                   |
-|       17 | 🎯 View a Visual Graph of the Repository       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-view-a-visual-graph-of-the-repository-challenge-12685'>도전 시작</a> |
-|       18 | 🎯 Git Configuration with GitHub               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-configuration-with-github-23'>도전 시작</a>                      |
-|       19 | 🎯 Git Fundamentals: Add, Commit, Status, Diff | 초급     | <a target='_blank' href='https://labex.io/ko/labs/shell-git-fundamentals-add-commit-status-diff-387715'>도전 시작</a>      |
-|       20 | 🎯 Create Your First Git Repository            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-create-your-first-git-repository-12632'>도전 시작</a>                |
 
 ## 더 보기
 
