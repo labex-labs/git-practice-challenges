@@ -1,50 +1,57 @@
-# Desafios Práticos de Git
+# Desafios práticos de Git
 
 ## Idiomas
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Desafios Práticos de Git](https://cover-creator.labex.io/git-practice-challenges.png?lang=pt)](https://labex.io/pt/courses/git-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/eS1mnBmwY9Xz.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/git-practice-challenges)
+Aprenda Git, o sistema de controle de versão padrão da indústria, com este caminho de aprendizagem abrangente projetado para iniciantes. Este roteiro oferece uma abordagem estruturada para dominar o Git através de uma série de cursos práticos de Git. Progrida desde conceitos fundamentais como repositórios e ramificação até fluxos de trabalho avançados de colaboração em equipe. Ganhe experiência prática e real com o gerenciamento de versão de código, completando exercícios interativos em um ambiente de testes Git dedicado.
 
-Este curso contém diversos desafios para Git, cada um sendo um pequeno projeto Git com instruções e soluções detalhadas. Você pode praticar suas habilidades em Git resolvendo esses desafios, aprimorar suas habilidades de resolução de problemas e aprender a escrever código limpo e eficiente.
+Explore até 32 desafios focados de Git no LabEx. Cada desafio abre em um ambiente interativo para você praticar habilidades específicas.
 
-![Git](https://img.shields.io/badge/Git-whitesmoke?style=for-the-badge&logo=git)
+|   Índice | Nome                                                                                                                                   | Habilidades                    | Dificuldade   | Prática                                                                                             |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---------------|-----------------------------------------------------------------------------------------------------|
+|       01 | [Configuração do Git com o GitHub](https://labex.io/pt/labs/git-git-configuration-with-github-23)                                      | Configuração do Git            | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-git-configuration-with-github-23)                    |
+|       02 | [Encontrar um Commit com Bug usando Bisect](https://labex.io/pt/labs/find-a-buggy-commit-with-bisect-705230)                           | Bissecção do histórico         | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/find-a-buggy-commit-with-bisect-705230)                  |
+|       03 | [Rastrear alterações de configuração com Git](https://labex.io/pt/labs/track-configuration-changes-with-git-662862)                    | Criação de ramificações        | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/track-configuration-changes-with-git-662862)             |
+|       04 | [Restaurar uma Configuração a partir do Git](https://labex.io/pt/labs/restore-a-configuration-from-git-662881)                         | Inspeção do histórico          | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/restore-a-configuration-from-git-662881)                 |
+|       05 | [Inicializar um Repositório de Projeto de Automação](https://labex.io/pt/labs/rhel-initialize-an-automation-project-repository-664410) | Clonagem de repositório        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/rhel-initialize-an-automation-project-repository-664410) |
+|       06 | [Reparar o Layout de um Repositório de Automação](https://labex.io/pt/labs/rhel-repair-an-automation-repository-layout-664426)         | Layout do projeto              | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/rhel-repair-an-automation-repository-layout-664426)      |
+|       07 | [Adicionar um Worktree de Release](https://labex.io/pt/labs/add-a-release-worktree-705227)                                             | Árvores de trabalho            | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/add-a-release-worktree-705227)                           |
+|       08 | [Aplicar um Patch de Revisão](https://labex.io/pt/labs/apply-a-review-patch-705228)                                                    | Aplicação de patch             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/apply-a-review-patch-705228)                             |
+|       09 | [Criar um Patch de Revisão](https://labex.io/pt/labs/create-a-review-patch-705229)                                                     | Criação de patches             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/create-a-review-patch-705229)                            |
+|       10 | [Configuração do Fluxo de Trabalho Git](https://labex.io/pt/labs/git-workflow-setup-641155)                                            | Inicialização do repositório   | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-workflow-setup-641155)                               |
+|       11 | [Identificar o autor de uma linha com o Blame](https://labex.io/pt/labs/identify-a-line-author-with-blame-705231)                      | Anotação de git blame          | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/identify-a-line-author-with-blame-705231)                |
+|       12 | [Inspecionar o Modelo de Objetos do Git](https://labex.io/pt/labs/inspect-the-git-object-model-705232)                                 | Modelo de Objeto               | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/inspect-the-git-object-model-705232)                     |
+|       13 | [Instalar um Hook de Pre-Commit](https://labex.io/pt/labs/install-a-pre-commit-hook-705233)                                            | Hooks de repositório           | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/install-a-pre-commit-hook-705233)                        |
+|       14 | [Remover Objetos Git Inalcançáveis](https://labex.io/pt/labs/prune-unreachable-git-objects-705234)                                     | Coleta de lixo                 | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/prune-unreachable-git-objects-705234)                    |
+|       15 | [Remover um arquivo grande do histórico](https://labex.io/pt/labs/remove-a-large-file-from-history-705235)                             | Tratamento de arquivos grandes | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/remove-a-large-file-from-history-705235)                 |
+|       16 | [Preparar alterações selecionadas](https://labex.io/pt/labs/stage-selected-changes-705236)                                             | Preparação parcial             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/stage-selected-changes-705236)                           |
+|       17 | [Verificar uma Release Assinada](https://labex.io/pt/labs/verify-a-signed-release-705237)                                              | Assinatura de Objeto           | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/verify-a-signed-release-705237)                          |
+|       18 | [Pipeline de Ponta a Ponta](https://labex.io/pt/labs/end-to-end-pipeline-636758)                                                       | Edição de arquivo de terminal  | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/end-to-end-pipeline-636758)                              |
+|       19 | [Gestão de Configuração de Operações](https://labex.io/pt/labs/ops-config-management-636723)                                           | Preparação de alterações       | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/ops-config-management-636723)                            |
+|       20 | [Detetive do Tempo no Git](https://labex.io/pt/labs/git-git-time-detective-387782)                                                     | Inspeção do histórico          | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-git-time-detective-387782)                           |
+|       21 | [Recupere os Arquivos Perdidos](https://labex.io/pt/labs/git-recover-the-lost-files-387781)                                            | Inspeção do histórico          | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-recover-the-lost-files-387781)                       |
+|       22 | [Desvende as Alterações Secretas no Código](https://labex.io/pt/labs/uncover-the-secret-code-changes-387768)                           | Inspeção de diff               | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/uncover-the-secret-code-changes-387768)                  |
+|       23 | [Etiquetando o Histórico do Seu Projeto](https://labex.io/pt/labs/git-tagging-your-project-s-history-387763)                           | Criação de tags                | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-tagging-your-project-s-history-387763)               |
+|       24 | [O Desenvolvedor Viajante do Tempo](https://labex.io/pt/labs/git-the-time-traveling-developer-387759)                                  | Stash                          | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-the-time-traveling-developer-387759)                 |
+|       25 | [Reescrevendo a História](https://labex.io/pt/labs/git-rewriting-history-387746)                                                       | Rebases interativas            | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-rewriting-history-387746)                            |
+|       26 | [O Dilema do Viajante do Tempo](https://labex.io/pt/labs/git-the-time-traveler-s-dilemma-387733)                                       | Criação de ramificações        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-the-time-traveler-s-dilemma-387733)                  |
+|       27 | [A Mala do Viajante do Tempo](https://labex.io/pt/labs/git-the-time-traveler-s-suitcase-387725)                                        | Inicialização do repositório   | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/git-the-time-traveler-s-suitcase-387725)                 |
+|       28 | [Configuração de Identidade da Máquina do Tempo](https://labex.io/pt/labs/git-time-machine-identity-configuration-387720)              | Inicialização do repositório   | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/git-time-machine-identity-configuration-387720)          |
+|       29 | [Operação Salto Quântico](https://labex.io/pt/labs/git-operation-quantum-leap-387717)                                                  | Inicialização do repositório   | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/git-operation-quantum-leap-387717)                       |
+|       30 | [Fundamentos do Git: Add, Commit, Status, Diff](https://labex.io/pt/labs/shell-git-fundamentals-add-commit-status-diff-387715)         | Inspeção de estado             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/shell-git-fundamentals-add-commit-status-diff-387715)    |
+|       31 | [Cancelar Alteração de Arquivo](https://labex.io/pt/labs/git-cancel-file-change-387714)                                                | Árvore de trabalho             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-cancel-file-change-387714)                           |
+|       32 | [Inicializar Projeto Git](https://labex.io/pt/labs/git-initialize-git-project-385166)                                                  | Clonagem de repositório        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/git-initialize-git-project-385166)                       |
 
-
-## Exercícios
-
-|   Índice | Nome                                            | Dificuldade   | Prática                                                                                                                                                    |
-|----------|-------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯  Inicializar Projeto Git                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-initialize-git-project-385166?course=git-practice-challenges'>Iniciar Desafio</a>                    |
-|       02 | 🎯 🆓 Add a Submodule                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/add-a-submodule-12611?course=git-practice-challenges'>Iniciar Desafio</a>                                |
-|       03 | 🎯 🆓 Clone Missing Submodules                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/clone-missing-submodules-12620?course=git-practice-challenges'>Iniciar Desafio</a>                       |
-|       04 | 🎯 🆓 Disable Fast Forward Merging              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/disable-fast-forward-merging-12642?course=git-practice-challenges'>Iniciar Desafio</a>                   |
-|       05 | 🎯 🆓 Edit Git Configuration File               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/edit-git-configuration-file-12645?course=git-practice-challenges'>Iniciar Desafio</a>                    |
-|       06 | 🎯 🆓 Get the Current Branch Name               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/get-the-current-branch-name-12633?course=git-practice-challenges'>Iniciar Desafio</a>                    |
-|       07 | 🎯 🆓 Merge a Branch                            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/merge-a-branch-12655?course=git-practice-challenges'>Iniciar Desafio</a>                                 |
-|       08 | 🎯 🆓 Set Default Push Branch Name              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/set-default-push-branch-name-12672?course=git-practice-challenges'>Iniciar Desafio</a>                   |
-|       09 | 🎯 🆓 View Changes Between Commits              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/view-changes-between-commits-12684?course=git-practice-challenges'>Iniciar Desafio</a>                   |
-|       10 | 🎯 🆓 View Undo History                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/view-undo-history-12696?course=git-practice-challenges'>Iniciar Desafio</a>                              |
-|       11 | 🎯  Cancel File Change                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-cancel-file-change-387714?course=git-practice-challenges'>Iniciar Desafio</a>                        |
-|       12 | 🎯 🆓 Add Files to the Staging Area             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/add-files-to-the-staging-area-12675?course=git-practice-challenges'>Iniciar Desafio</a>                  |
-|       13 | 🎯  Autocorrect Git Commands                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/autocorrect-git-commands-12614?course=git-practice-challenges'>Iniciar Desafio</a>                       |
-|       14 | 🎯 🆓 Clone the First Trending Repository       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/clone-the-first-trending-repository-12621?course=git-practice-challenges'>Iniciar Desafio</a>            |
-|       15 | 🎯 🆓 Configure the git text editor             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/configure-the-git-text-editor-12673?course=git-practice-challenges'>Iniciar Desafio</a>                  |
-|       16 | 🎯 🆓 View Current Status                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/view-current-status-12695?course=git-practice-challenges'>Iniciar Desafio</a>                            |
-|       17 | 🎯 🆓 View a Visual Graph of the Repository     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/view-a-visual-graph-of-the-repository-12685?course=git-practice-challenges'>Iniciar Desafio</a>          |
-|       18 | 🎯 🆓 Git Configuration with GitHub             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/git-git-configuration-with-github-23?course=git-practice-challenges'>Iniciar Desafio</a>                 |
-|       19 | 🎯  Git Fundamentals: Add, Commit, Status, Diff | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/shell-git-fundamentals-add-commit-status-diff-387715?course=git-practice-challenges'>Iniciar Desafio</a> |
-|       20 | 🎯 🆓 Create Your First Git Repository          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/create-your-first-git-repository-12632?course=git-practice-challenges'>Iniciar Desafio</a>               |
-
-## Sobre LabEx
-
-[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[Ver todos os desafios](https://labex.io/pt/learn/git).
 
 ## Mais
 
-- 🔗 [Git Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Git Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Git Tutoriais Gratuitos](https://github.com/labex-labs/git-free-tutorials)
+- 🔗 [Saiba mais sobre Git no LabEx](https://labex.io/pt/learn/git)
+- 🔗 [Explore mais projetos de programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Explore cursos de programação](https://github.com/labex-labs/awesome-programming-courses)
 
