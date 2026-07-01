@@ -1,50 +1,57 @@
-# Git 실습 챌린지
+# Git 실습 도전
 
 ## 언어
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Git 실습 챌린지](https://cover-creator.labex.io/git-practice-challenges.png?lang=ko)](https://labex.io/ko/courses/git-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/eS1mnBmwY9Xz.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/git-practice-challenges)
+업계 표준 버전 관리 시스템인 Git 을 위한 포괄적인 학습 경로를 통해 Git 을 배워보세요. 이 로드맵은 일련의 실습 Git 과정을 통해 Git 을 마스터하기 위한 체계적인 접근 방식을 제공합니다. 저장소 및 브랜칭과 같은 기본 개념부터 고급 팀 협업 워크플로우에 이르기까지 진행합니다. 전용 Git 플레이그라운드에서 대화형 연습을 완료하여 코드 버전 관리와 관련된 실용적이고 실제적인 경험을 얻으세요.
 
-본 과정은 Git 에 대한 다양한 챌린지를 포함하고 있으며, 각 챌린지는 상세한 지침과 솔루션을 갖춘 작은 Git 프로젝트입니다. 이러한 챌린지를 해결함으로써 Git 기술을 연습하고, 문제 해결 능력을 향상시키며, 깨끗하고 효율적인 코드를 작성하는 방법을 배울 수 있습니다.
+LabEx 의 32개 이하 Git 집중 도전을 살펴보세요. 각 도전은 대화형 환경에서 열려 특정 기술을 연습할 수 있습니다.
 
-![Git](https://img.shields.io/badge/Git-whitesmoke?style=for-the-badge&logo=git)
+|   인덱스 | 이름                                                                                                                  | 스킬           | 난이도   | 연습                                                                                        |
+|-------|---------------------------------------------------------------------------------------------------------------------|--------------|-------|-------------------------------------------------------------------------------------------|
+|    01 | [GitHub 를 이용한 Git 설정](https://labex.io/ko/labs/git-git-configuration-with-github-23)                                | Git 구성       | 중급    | [도전 시작](https://labex.io/ko/labs/git-git-configuration-with-github-23)                    |
+|    02 | [Bisect 를 사용하여 버그가 있는 커밋 찾기](https://labex.io/ko/labs/find-a-buggy-commit-with-bisect-705230)                       | 히스토리 이분 탐색   | 초급    | [도전 시작](https://labex.io/ko/labs/find-a-buggy-commit-with-bisect-705230)                  |
+|    03 | [Git 을 이용한 구성 변경 사항 추적](https://labex.io/ko/labs/track-configuration-changes-with-git-662862)                       | 브랜치 생성       | 초급    | [도전 시작](https://labex.io/ko/labs/track-configuration-changes-with-git-662862)             |
+|    04 | [Git 을 이용한 설정 복구](https://labex.io/ko/labs/restore-a-configuration-from-git-662881)                                 | 기록 검사        | 중급    | [도전 시작](https://labex.io/ko/labs/restore-a-configuration-from-git-662881)                 |
+|    05 | [자동화 프로젝트 저장소 초기화](https://labex.io/ko/labs/rhel-initialize-an-automation-project-repository-664410)                | 저장소 복제       | 중급    | [도전 시작](https://labex.io/ko/labs/rhel-initialize-an-automation-project-repository-664410) |
+|    06 | [자동화 저장소 레이아웃 복구](https://labex.io/ko/labs/rhel-repair-an-automation-repository-layout-664426)                      | 프로젝트 레이아웃    | 중급    | [도전 시작](https://labex.io/ko/labs/rhel-repair-an-automation-repository-layout-664426)      |
+|    07 | [릴리스 워크트리 추가하기](https://labex.io/ko/labs/add-a-release-worktree-705227)                                             | 작업 트리        | 초급    | [도전 시작](https://labex.io/ko/labs/add-a-release-worktree-705227)                           |
+|    08 | [리뷰 패치 적용하기](https://labex.io/ko/labs/apply-a-review-patch-705228)                                                  | 패치 적용        | 초급    | [도전 시작](https://labex.io/ko/labs/apply-a-review-patch-705228)                             |
+|    09 | [리뷰 패치 생성하기](https://labex.io/ko/labs/create-a-review-patch-705229)                                                 | 패치 생성        | 초급    | [도전 시작](https://labex.io/ko/labs/create-a-review-patch-705229)                            |
+|    10 | [Git 워크플로우 설정](https://labex.io/ko/labs/git-workflow-setup-641155)                                                  | 저장소 초기화      | 중급    | [도전 시작](https://labex.io/ko/labs/git-workflow-setup-641155)                               |
+|    11 | [Blame 을 사용하여 코드 라인 작성자 확인하기](https://labex.io/ko/labs/identify-a-line-author-with-blame-705231)                    | git blame 주석 | 초급    | [도전 시작](https://labex.io/ko/labs/identify-a-line-author-with-blame-705231)                |
+|    12 | [Git 객체 모델 검사하기](https://labex.io/ko/labs/inspect-the-git-object-model-705232)                                      | 객체 모델        | 초급    | [도전 시작](https://labex.io/ko/labs/inspect-the-git-object-model-705232)                     |
+|    13 | [Pre-Commit 훅 설치하기](https://labex.io/ko/labs/install-a-pre-commit-hook-705233)                                      | 저장소 Hooks    | 초급    | [도전 시작](https://labex.io/ko/labs/install-a-pre-commit-hook-705233)                        |
+|    14 | [도달 불가능한 Git 객체 정리하기](https://labex.io/ko/labs/prune-unreachable-git-objects-705234)                                | 쓰레기 수거       | 초급    | [도전 시작](https://labex.io/ko/labs/prune-unreachable-git-objects-705234)                    |
+|    15 | [Git 기록에서 대용량 파일 제거하기](https://labex.io/ko/labs/remove-a-large-file-from-history-705235)                            | 대용량 파일 처리    | 초급    | [도전 시작](https://labex.io/ko/labs/remove-a-large-file-from-history-705235)                 |
+|    16 | [선택적 변경 사항 스테이징](https://labex.io/ko/labs/stage-selected-changes-705236)                                            | 부분 스테이징      | 초급    | [도전 시작](https://labex.io/ko/labs/stage-selected-changes-705236)                           |
+|    17 | [서명된 릴리스 검증](https://labex.io/ko/labs/verify-a-signed-release-705237)                                               | 객체 서명        | 초급    | [도전 시작](https://labex.io/ko/labs/verify-a-signed-release-705237)                          |
+|    18 | [엔드투엔드 파이프라인](https://labex.io/ko/labs/end-to-end-pipeline-636758)                                                  | 터미널 파일 편집    | 중급    | [도전 시작](https://labex.io/ko/labs/end-to-end-pipeline-636758)                              |
+|    19 | [운영 환경 설정 관리](https://labex.io/ko/labs/ops-config-management-636723)                                                | 스테이징 변경 사항   | 중급    | [도전 시작](https://labex.io/ko/labs/ops-config-management-636723)                            |
+|    20 | [Git 시간 탐정](https://labex.io/ko/labs/git-git-time-detective-387782)                                                 | 기록 검사        | 중급    | [도전 시작](https://labex.io/ko/labs/git-git-time-detective-387782)                           |
+|    21 | [유실된 파일 복구하기](https://labex.io/ko/labs/git-recover-the-lost-files-387781)                                           | 기록 검사        | 중급    | [도전 시작](https://labex.io/ko/labs/git-recover-the-lost-files-387781)                       |
+|    22 | [숨겨진 코드 변경 사항을 찾아라](https://labex.io/ko/labs/uncover-the-secret-code-changes-387768)                                | diff 검사      | 중급    | [도전 시작](https://labex.io/ko/labs/uncover-the-secret-code-changes-387768)                  |
+|    23 | [프로젝트 이력에 태그 달기](https://labex.io/ko/labs/git-tagging-your-project-s-history-387763)                                | 태그 생성        | 중급    | [도전 시작](https://labex.io/ko/labs/git-tagging-your-project-s-history-387763)               |
+|    24 | [시간 여행을 하는 개발자](https://labex.io/ko/labs/git-the-time-traveling-developer-387759)                                   | Stash        | 중급    | [도전 시작](https://labex.io/ko/labs/git-the-time-traveling-developer-387759)                 |
+|    25 | [커밋 히스토리 재작성하기](https://labex.io/ko/labs/git-rewriting-history-387746)                                              | 대화형 리베이스     | 중급    | [도전 시작](https://labex.io/ko/labs/git-rewriting-history-387746)                            |
+|    26 | [시간 여행자의 딜레마](https://labex.io/ko/labs/git-the-time-traveler-s-dilemma-387733)                                      | 브랜치 생성       | 중급    | [도전 시작](https://labex.io/ko/labs/git-the-time-traveler-s-dilemma-387733)                  |
+|    27 | [시간 여행자의 여행 가방](https://labex.io/ko/labs/git-the-time-traveler-s-suitcase-387725)                                   | 저장소 초기화      | 초급    | [도전 시작](https://labex.io/ko/labs/git-the-time-traveler-s-suitcase-387725)                 |
+|    28 | [타임머신 신원 설정](https://labex.io/ko/labs/git-time-machine-identity-configuration-387720)                               | 저장소 초기화      | 초급    | [도전 시작](https://labex.io/ko/labs/git-time-machine-identity-configuration-387720)          |
+|    29 | [오퍼레이션 퀀텀 리프 (Operation Quantum Leap)](https://labex.io/ko/labs/git-operation-quantum-leap-387717)                  | 저장소 초기화      | 초급    | [도전 시작](https://labex.io/ko/labs/git-operation-quantum-leap-387717)                       |
+|    30 | [Git 기본기: Add, Commit, Status, Diff](https://labex.io/ko/labs/shell-git-fundamentals-add-commit-status-diff-387715) | 상태 점검        | 중급    | [도전 시작](https://labex.io/ko/labs/shell-git-fundamentals-add-commit-status-diff-387715)    |
+|    31 | [파일 변경 사항 취소](https://labex.io/ko/labs/git-cancel-file-change-387714)                                               | 워킹 트리        | 중급    | [도전 시작](https://labex.io/ko/labs/git-cancel-file-change-387714)                           |
+|    32 | [Git 프로젝트 초기화](https://labex.io/ko/labs/git-initialize-git-project-385166)                                          | 저장소 복제       | 중급    | [도전 시작](https://labex.io/ko/labs/git-initialize-git-project-385166)                       |
 
-
-## 연습
-
-|   인덱스 | 이름                                            | 난이도   | 연습                                                                                                                                                 |
-|----------|-------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯  Git 프로젝트 초기화                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-initialize-git-project-385166?course=git-practice-challenges'>도전 시작</a>                    |
-|       02 | 🎯 🆓 Add a Submodule                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/add-a-submodule-12611?course=git-practice-challenges'>도전 시작</a>                                |
-|       03 | 🎯 🆓 Clone Missing Submodules                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/clone-missing-submodules-12620?course=git-practice-challenges'>도전 시작</a>                       |
-|       04 | 🎯 🆓 Disable Fast Forward Merging              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/disable-fast-forward-merging-12642?course=git-practice-challenges'>도전 시작</a>                   |
-|       05 | 🎯 🆓 Edit Git Configuration File               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/edit-git-configuration-file-12645?course=git-practice-challenges'>도전 시작</a>                    |
-|       06 | 🎯 🆓 Get the Current Branch Name               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/get-the-current-branch-name-12633?course=git-practice-challenges'>도전 시작</a>                    |
-|       07 | 🎯 🆓 Merge a Branch                            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/merge-a-branch-12655?course=git-practice-challenges'>도전 시작</a>                                 |
-|       08 | 🎯 🆓 Set Default Push Branch Name              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/set-default-push-branch-name-12672?course=git-practice-challenges'>도전 시작</a>                   |
-|       09 | 🎯 🆓 View Changes Between Commits              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/view-changes-between-commits-12684?course=git-practice-challenges'>도전 시작</a>                   |
-|       10 | 🎯 🆓 View Undo History                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/view-undo-history-12696?course=git-practice-challenges'>도전 시작</a>                              |
-|       11 | 🎯  Cancel File Change                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-cancel-file-change-387714?course=git-practice-challenges'>도전 시작</a>                        |
-|       12 | 🎯 🆓 Add Files to the Staging Area             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/add-files-to-the-staging-area-12675?course=git-practice-challenges'>도전 시작</a>                  |
-|       13 | 🎯  Autocorrect Git Commands                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/autocorrect-git-commands-12614?course=git-practice-challenges'>도전 시작</a>                       |
-|       14 | 🎯 🆓 Clone the First Trending Repository       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/clone-the-first-trending-repository-12621?course=git-practice-challenges'>도전 시작</a>            |
-|       15 | 🎯 🆓 Configure the git text editor             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/configure-the-git-text-editor-12673?course=git-practice-challenges'>도전 시작</a>                  |
-|       16 | 🎯 🆓 View Current Status                       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/view-current-status-12695?course=git-practice-challenges'>도전 시작</a>                            |
-|       17 | 🎯 🆓 View a Visual Graph of the Repository     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/view-a-visual-graph-of-the-repository-12685?course=git-practice-challenges'>도전 시작</a>          |
-|       18 | 🎯 🆓 Git Configuration with GitHub             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/git-git-configuration-with-github-23?course=git-practice-challenges'>도전 시작</a>                 |
-|       19 | 🎯  Git Fundamentals: Add, Commit, Status, Diff | 초급     | <a target='_blank' href='https://labex.io/ko/labs/shell-git-fundamentals-add-commit-status-diff-387715?course=git-practice-challenges'>도전 시작</a> |
-|       20 | 🎯 🆓 Create Your First Git Repository          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/create-your-first-git-repository-12632?course=git-practice-challenges'>도전 시작</a>               |
-
-## LabEx 소개
-
-[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[모든 도전 보기](https://labex.io/ko/learn/git).
 
 ## 더 보기
 
-- 🔗 [Git 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Git 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Git 무료 튜토리얼](https://github.com/labex-labs/git-free-tutorials)
+- 🔗 [LabEx 에서 Git 더 알아보기](https://labex.io/ko/learn/git)
+- 🔗 [더 많은 프로그래밍 프로젝트 탐색](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [프로그래밍 코스 탐색](https://github.com/labex-labs/awesome-programming-courses)
 
