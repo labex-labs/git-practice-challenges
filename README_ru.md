@@ -1,50 +1,57 @@
-# Задачи по практике работы с Git
+# Практические испытания Git
 
 ## Языки
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Задачи по практике работы с Git](https://cover-creator.labex.io/git-practice-challenges.png?lang=ru)](https://labex.io/ru/courses/git-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/eS1mnBmwY9Xz.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/git-practice-challenges)
+Изучите Git, отраслевой стандарт системы контроля версий, с помощью этого всеобъемлющего учебного плана, разработанного для начинающих. Эта дорожная карта предлагает структурированный подход к освоению Git через серию практических курсов. Пройдите путь от фундаментальных концепций, таких как репозитории и ветвление, до продвинутых рабочих процессов командного взаимодействия. Получите практический, реальный опыт управления версиями кода, выполняя интерактивные упражнения на специальной площадке Git.
 
-Этот курс содержит множество задач по работе с Git. Каждая задача представляет собой небольшой проект на Git с подробными инструкциями и решениями. Вы можете практиковать свои навыки работы с Git, решая эти задачи, улучшить свои навыки решения проблем и научиться писать чистый и эффективный код.
+Просмотрите до 32 целевых испытаний Git на LabEx. Каждое испытание открывается в интерактивной среде для отработки конкретных навыков.
 
-![Git](https://img.shields.io/badge/Git-whitesmoke?style=for-the-badge&logo=git)
+|   Индекс | Название                                                                                                                            | Навыки                          | Сложность   | Практика                                                                                             |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|------------------------------------------------------------------------------------------------------|
+|       01 | [Конфигурация Git с GitHub](https://labex.io/ru/labs/git-git-configuration-with-github-23)                                          | Конфигурация Git                | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-git-configuration-with-github-23)                    |
+|       02 | [Поиск ошибочного коммита с помощью Bisect](https://labex.io/ru/labs/find-a-buggy-commit-with-bisect-705230)                        | Бисекция истории                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/find-a-buggy-commit-with-bisect-705230)                  |
+|       03 | [Отслеживание изменений конфигурации с помощью Git](https://labex.io/ru/labs/track-configuration-changes-with-git-662862)           | Создание ветки                  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/track-configuration-changes-with-git-662862)             |
+|       04 | [Восстановление конфигурации из Git](https://labex.io/ru/labs/restore-a-configuration-from-git-662881)                              | Проверка истории                | Средний     | [Начать Испытание](https://labex.io/ru/labs/restore-a-configuration-from-git-662881)                 |
+|       05 | [Инициализация репозитория проекта автоматизации](https://labex.io/ru/labs/rhel-initialize-an-automation-project-repository-664410) | Клонирование репозитория        | Средний     | [Начать Испытание](https://labex.io/ru/labs/rhel-initialize-an-automation-project-repository-664410) |
+|       06 | [Восстановление структуры репозитория автоматизации](https://labex.io/ru/labs/rhel-repair-an-automation-repository-layout-664426)   | Структура проекта               | Средний     | [Начать Испытание](https://labex.io/ru/labs/rhel-repair-an-automation-repository-layout-664426)      |
+|       07 | [Добавление рабочего дерева релиза](https://labex.io/ru/labs/add-a-release-worktree-705227)                                         | Рабочие деревья                 | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/add-a-release-worktree-705227)                           |
+|       08 | [Применение патча для проверки](https://labex.io/ru/labs/apply-a-review-patch-705228)                                               | Исправление приложения          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/apply-a-review-patch-705228)                             |
+|       09 | [Создание патча для проверки кода](https://labex.io/ru/labs/create-a-review-patch-705229)                                           | Создание патчей                 | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/create-a-review-patch-705229)                            |
+|       10 | [Настройка рабочего процесса Git](https://labex.io/ru/labs/git-workflow-setup-641155)                                               | Инициализация репозитория       | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-workflow-setup-641155)                               |
+|       11 | [Определение автора строки с помощью blame](https://labex.io/ru/labs/identify-a-line-author-with-blame-705231)                      | Аннотация git blame             | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/identify-a-line-author-with-blame-705231)                |
+|       12 | [Изучение объектной модели Git](https://labex.io/ru/labs/inspect-the-git-object-model-705232)                                       | Объектная модель                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/inspect-the-git-object-model-705232)                     |
+|       13 | [Установка хука pre-commit](https://labex.io/ru/labs/install-a-pre-commit-hook-705233)                                              | Хуки репозитория                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/install-a-pre-commit-hook-705233)                        |
+|       14 | [Очистка недостижимых объектов Git](https://labex.io/ru/labs/prune-unreachable-git-objects-705234)                                  | Сборка мусора                   | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/prune-unreachable-git-objects-705234)                    |
+|       15 | [Удаление большого файла из истории](https://labex.io/ru/labs/remove-a-large-file-from-history-705235)                              | Обработка больших файлов        | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/remove-a-large-file-from-history-705235)                 |
+|       16 | [Индексация выбранных изменений](https://labex.io/ru/labs/stage-selected-changes-705236)                                            | Частичная подготовка            | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/stage-selected-changes-705236)                           |
+|       17 | [Проверка подписанного релиза](https://labex.io/ru/labs/verify-a-signed-release-705237)                                             | Подписание объекта              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/verify-a-signed-release-705237)                          |
+|       18 | [Сквозной конвейер (End-to-End Pipeline)](https://labex.io/ru/labs/end-to-end-pipeline-636758)                                      | Редактирование файлов терминала | Средний     | [Начать Испытание](https://labex.io/ru/labs/end-to-end-pipeline-636758)                              |
+|       19 | [Управление конфигурациями в DevOps](https://labex.io/ru/labs/ops-config-management-636723)                                         | Подготовка изменений            | Средний     | [Начать Испытание](https://labex.io/ru/labs/ops-config-management-636723)                            |
+|       20 | [Детектив времени Git](https://labex.io/ru/labs/git-git-time-detective-387782)                                                      | Проверка истории                | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-git-time-detective-387782)                           |
+|       21 | [Восстановление утерянных файлов](https://labex.io/ru/labs/git-recover-the-lost-files-387781)                                       | Проверка истории                | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-recover-the-lost-files-387781)                       |
+|       22 | [Раскройте секретные изменения в коде](https://labex.io/ru/labs/uncover-the-secret-code-changes-387768)                             | Проверка различий               | Средний     | [Начать Испытание](https://labex.io/ru/labs/uncover-the-secret-code-changes-387768)                  |
+|       23 | [Маркировка истории вашего проекта](https://labex.io/ru/labs/git-tagging-your-project-s-history-387763)                             | Создание тегов                  | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-tagging-your-project-s-history-387763)               |
+|       24 | [Разработчик, путешествующий во времени](https://labex.io/ru/labs/git-the-time-traveling-developer-387759)                          | Stash                           | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-the-time-traveling-developer-387759)                 |
+|       25 | [Переписывание истории](https://labex.io/ru/labs/git-rewriting-history-387746)                                                      | Интерактивный rebase            | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-rewriting-history-387746)                            |
+|       26 | [Дилемма путешественника во времени](https://labex.io/ru/labs/git-the-time-traveler-s-dilemma-387733)                               | Создание ветки                  | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-the-time-traveler-s-dilemma-387733)                  |
+|       27 | [Чемодан путешественника во времени](https://labex.io/ru/labs/git-the-time-traveler-s-suitcase-387725)                              | Инициализация репозитория       | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/git-the-time-traveler-s-suitcase-387725)                 |
+|       28 | [Настройка личности в Машине Времени](https://labex.io/ru/labs/git-time-machine-identity-configuration-387720)                      | Инициализация репозитория       | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/git-time-machine-identity-configuration-387720)          |
+|       29 | [Операция «Квантовый скачок»](https://labex.io/ru/labs/git-operation-quantum-leap-387717)                                           | Инициализация репозитория       | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/git-operation-quantum-leap-387717)                       |
+|       30 | [Основы Git: Add, Commit, Status, Diff](https://labex.io/ru/labs/shell-git-fundamentals-add-commit-status-diff-387715)              | Проверка статуса                | Средний     | [Начать Испытание](https://labex.io/ru/labs/shell-git-fundamentals-add-commit-status-diff-387715)    |
+|       31 | [Отмена изменений файла](https://labex.io/ru/labs/git-cancel-file-change-387714)                                                    | Рабочее дерево                  | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-cancel-file-change-387714)                           |
+|       32 | [Инициализация проекта Git](https://labex.io/ru/labs/git-initialize-git-project-385166)                                             | Клонирование репозитория        | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-initialize-git-project-385166)                       |
 
-
-## Упражнения
-
-|   Индекс | Название                                                  | Сложность   | Практика                                                                                                                                                    |
-|----------|-----------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯  Инициализация проекта Git                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/git-initialize-git-project-385166?course=git-practice-challenges'>Начать Испытание</a>                    |
-|       02 | 🎯 🆓 Добавить подмодуль                                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/add-a-submodule-12611?course=git-practice-challenges'>Начать Испытание</a>                                |
-|       03 | 🎯 🆓 Клонирование отсутствующих подмодулей               | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/clone-missing-submodules-12620?course=git-practice-challenges'>Начать Испытание</a>                       |
-|       04 | 🎯 🆓 Отключить быструю смерж                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/disable-fast-forward-merging-12642?course=git-practice-challenges'>Начать Испытание</a>                   |
-|       05 | 🎯 🆓 Редактирование файла конфигурации Git               | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/edit-git-configuration-file-12645?course=git-practice-challenges'>Начать Испытание</a>                    |
-|       06 | 🎯 🆓 Получить имя текущей ветки                          | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/get-the-current-branch-name-12633?course=git-practice-challenges'>Начать Испытание</a>                    |
-|       07 | 🎯 🆓 Объединить ветвь                                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/merge-a-branch-12655?course=git-practice-challenges'>Начать Испытание</a>                                 |
-|       08 | 🎯 🆓 Установка имени ветки по умолчанию для отправки     | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/set-default-push-branch-name-12672?course=git-practice-challenges'>Начать Испытание</a>                   |
-|       09 | 🎯 🆓 Просмотр изменений между коммитами                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/view-changes-between-commits-12684?course=git-practice-challenges'>Начать Испытание</a>                   |
-|       10 | 🎯 🆓 Просмотр истории отмены                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/view-undo-history-12696?course=git-practice-challenges'>Начать Испытание</a>                              |
-|       11 | 🎯  Отмена изменения файла                                | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/git-cancel-file-change-387714?course=git-practice-challenges'>Начать Испытание</a>                        |
-|       12 | 🎯 🆓 Добавление файлов в staging-регион                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/add-files-to-the-staging-area-12675?course=git-practice-challenges'>Начать Испытание</a>                  |
-|       13 | 🎯  Автокоррекция команд Git                              | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/autocorrect-git-commands-12614?course=git-practice-challenges'>Начать Испытание</a>                       |
-|       14 | 🎯 🆓 Клонирование первого популярного репозитория        | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/clone-the-first-trending-repository-12621?course=git-practice-challenges'>Начать Испытание</a>            |
-|       15 | 🎯 🆓 Настройка текстового редактора Git                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/configure-the-git-text-editor-12673?course=git-practice-challenges'>Начать Испытание</a>                  |
-|       16 | 🎯 🆓 Просмотр текущего состояния                         | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/view-current-status-12695?course=git-practice-challenges'>Начать Испытание</a>                            |
-|       17 | 🎯 🆓 Просмотр визуального графа репозитория              | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/view-a-visual-graph-of-the-repository-12685?course=git-practice-challenges'>Начать Испытание</a>          |
-|       18 | 🎯 🆓 Конфигурация Git с GitHub                           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/git-git-configuration-with-github-23?course=git-practice-challenges'>Начать Испытание</a>                 |
-|       19 | 🎯  Основы Git: Добавить, Сделать коммит, Статус, Разн... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/shell-git-fundamentals-add-commit-status-diff-387715?course=git-practice-challenges'>Начать Испытание</a> |
-|       20 | 🎯 🆓 Создайте свой первый репозиторий Git                | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/create-your-first-git-repository-12632?course=git-practice-challenges'>Начать Испытание</a>               |
-
-## О LabEx
-
-[LabEx](https://labex.io) - это интерактивная практическая обучающая платформа, посвященная программированию и технологиям. Она объединяет лаборатории, ИИ-помощь и виртуальные машины для обеспечения практического обучения без видео. Со строгим подходом 'Учись делая', интерактивными онлайн-средами в браузере с автоматизированными пошаговыми проверками, структурированной организацией контента с системой на основе Дерева Навыков, и растущим учебным ресурсом из 30 Деревьев Навыков и более 6,000 Лабораторий, [LabEx](https://labex.io) предлагает всестороннее практическое образование. Платформа включает ассистента обучения Labby, построенного на последних моделях ИИ, обеспечивающего разговорный опыт обучения.
+[Посмотреть все испытания](https://labex.io/ru/learn/git).
 
 ## Больше
 
-- 🔗 [Git Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Git Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Git Бесплатные туториалы](https://github.com/labex-labs/git-free-tutorials)
+- 🔗 [Узнать больше о Git на LabEx](https://labex.io/ru/learn/git)
+- 🔗 [Посмотреть больше проектов программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Посмотреть курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
 
