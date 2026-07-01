@@ -2,49 +2,56 @@
 
 ## 言語
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Git 実践チャレンジ](https://cover-creator.labex.io/git-practice-challenges.png?lang=ja)](https://labex.io/ja/courses/git-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/eS1mnBmwY9Xz.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/git-practice-challenges)
+業界標準のバージョン管理システムである Git を、初心者向けに設計されたこの包括的な学習パスで習得しましょう。このロードマップは、一連の実践的な Git コースを通じて Git を習得するための体系的なアプローチを提供します。リポジトリやブランチングのような基本的な概念から、高度なチームコラボレーションワークフローまで段階的に学習します。専用の Git プレイグラウンドでインタラクティブな演習を完了することで、コードバージョン管理の実践的で実用的な経験を積むことができます。
 
-このコースには Git のチャレンジが多数含まれています。各チャレンジは詳細な指示と解決策を備えた小さな Git プロジェクトです。これらのチャレンジを解くことで、Git のスキルを練習し、問題解決能力を向上させ、クリーンで効率的なコードの書き方を学ぶことができます。
+LabEx の最大 32 個の Git 集中チャレンジを一覧できます。各チャレンジはインタラクティブ環境で開き、特定のスキルを練習できます。
 
-![Git](https://img.shields.io/badge/Git-whitesmoke?style=for-the-badge&logo=git)
+|   インデックス | 名前                                                                                                              | スキル           | 難易度   | 練習                                                                                           |
+|----------|-----------------------------------------------------------------------------------------------------------------|---------------|-------|----------------------------------------------------------------------------------------------|
+|       01 | [GitHub との Git 設定](https://labex.io/ja/labs/git-git-configuration-with-github-23)                               | Git 構成        | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-git-configuration-with-github-23)                    |
+|       02 | [Bisect を使用したバグのあるコミットの特定](https://labex.io/ja/labs/find-a-buggy-commit-with-bisect-705230)                     | 履歴の二分探索       | 初級    | [チャレンジを開始](https://labex.io/ja/labs/find-a-buggy-commit-with-bisect-705230)                  |
+|       03 | [Git を使用した設定変更の追跡](https://labex.io/ja/labs/track-configuration-changes-with-git-662862)                        | ブランチの作成       | 初級    | [チャレンジを開始](https://labex.io/ja/labs/track-configuration-changes-with-git-662862)             |
+|       04 | [Git を使用した設定の復元](https://labex.io/ja/labs/restore-a-configuration-from-git-662881)                              | 履歴検査          | 中級    | [チャレンジを開始](https://labex.io/ja/labs/restore-a-configuration-from-git-662881)                 |
+|       05 | [自動化プロジェクトリポジトリの初期化](https://labex.io/ja/labs/rhel-initialize-an-automation-project-repository-664410)          | リポジトリのクローン作成  | 中級    | [チャレンジを開始](https://labex.io/ja/labs/rhel-initialize-an-automation-project-repository-664410) |
+|       06 | [自動化リポジトリのレイアウト修復](https://labex.io/ja/labs/rhel-repair-an-automation-repository-layout-664426)                 | プロジェクトのレイアウト  | 中級    | [チャレンジを開始](https://labex.io/ja/labs/rhel-repair-an-automation-repository-layout-664426)      |
+|       07 | [リリース用ワークツリーの追加](https://labex.io/ja/labs/add-a-release-worktree-705227)                                        | ワークツリー        | 初級    | [チャレンジを開始](https://labex.io/ja/labs/add-a-release-worktree-705227)                           |
+|       08 | [レビューパッチの適用](https://labex.io/ja/labs/apply-a-review-patch-705228)                                              | パッチ適用         | 初級    | [チャレンジを開始](https://labex.io/ja/labs/apply-a-review-patch-705228)                             |
+|       09 | [レビュー用パッチの作成](https://labex.io/ja/labs/create-a-review-patch-705229)                                            | パッチの作成        | 初級    | [チャレンジを開始](https://labex.io/ja/labs/create-a-review-patch-705229)                            |
+|       10 | [Git ワークフローのセットアップ](https://labex.io/ja/labs/git-workflow-setup-641155)                                         | リポジトリの初期化     | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-workflow-setup-641155)                               |
+|       11 | [git blame を使用した行の作成者の特定](https://labex.io/ja/labs/identify-a-line-author-with-blame-705231)                    | git blame 注釈  | 初級    | [チャレンジを開始](https://labex.io/ja/labs/identify-a-line-author-with-blame-705231)                |
+|       12 | [Git オブジェクトモデルの調査](https://labex.io/ja/labs/inspect-the-git-object-model-705232)                                | オブジェクトモデル     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/inspect-the-git-object-model-705232)                     |
+|       13 | [プリコミットフックのインストール](https://labex.io/ja/labs/install-a-pre-commit-hook-705233)                                   | リポジトリフック      | 初級    | [チャレンジを開始](https://labex.io/ja/labs/install-a-pre-commit-hook-705233)                        |
+|       14 | [到達不可能な Git オブジェクトの削除](https://labex.io/ja/labs/prune-unreachable-git-objects-705234)                           | ガベージコレクション    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/prune-unreachable-git-objects-705234)                    |
+|       15 | [Git 履歴から巨大なファイルを削除する](https://labex.io/ja/labs/remove-a-large-file-from-history-705235)                        | 大きなファイルの処理    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/remove-a-large-file-from-history-705235)                 |
+|       16 | [変更のステージング](https://labex.io/ja/labs/stage-selected-changes-705236)                                             | 部分的なステージング    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/stage-selected-changes-705236)                           |
+|       17 | [署名済みリリースの検証](https://labex.io/ja/labs/verify-a-signed-release-705237)                                          | オブジェクトの署名     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/verify-a-signed-release-705237)                          |
+|       18 | [エンドツーエンドパイプライン](https://labex.io/ja/labs/end-to-end-pipeline-636758)                                           | 端末ファイルの編集     | 中級    | [チャレンジを開始](https://labex.io/ja/labs/end-to-end-pipeline-636758)                              |
+|       19 | [Ops 設定管理](https://labex.io/ja/labs/ops-config-management-636723)                                               | ステージングの変更     | 中級    | [チャレンジを開始](https://labex.io/ja/labs/ops-config-management-636723)                            |
+|       20 | [Git タイム・ディテクティブ（時間の探偵）](https://labex.io/ja/labs/git-git-time-detective-387782)                                | 履歴検査          | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-git-time-detective-387782)                           |
+|       21 | [失われたファイルの復元](https://labex.io/ja/labs/git-recover-the-lost-files-387781)                                       | 履歴検査          | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-recover-the-lost-files-387781)                       |
+|       22 | [隠されたコード変更を暴け](https://labex.io/ja/labs/uncover-the-secret-code-changes-387768)                                 | 差分検査          | 中級    | [チャレンジを開始](https://labex.io/ja/labs/uncover-the-secret-code-changes-387768)                  |
+|       23 | [プロジェクト履歴へのタグ付け](https://labex.io/ja/labs/git-tagging-your-project-s-history-387763)                            | タグの作成         | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-tagging-your-project-s-history-387763)               |
+|       24 | [時をかける開発者](https://labex.io/ja/labs/git-the-time-traveling-developer-387759)                                    | Stash         | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-the-time-traveling-developer-387759)                 |
+|       25 | [履歴の書き換え](https://labex.io/ja/labs/git-rewriting-history-387746)                                                | インタラクティブなリベース | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-rewriting-history-387746)                            |
+|       26 | [タイムトラベラーのジレンマ](https://labex.io/ja/labs/git-the-time-traveler-s-dilemma-387733)                                | ブランチの作成       | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-the-time-traveler-s-dilemma-387733)                  |
+|       27 | [タイムトラベラーのスーツケース](https://labex.io/ja/labs/git-the-time-traveler-s-suitcase-387725)                             | リポジトリの初期化     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/git-the-time-traveler-s-suitcase-387725)                 |
+|       28 | [タイムマシンのアイデンティティ設定](https://labex.io/ja/labs/git-time-machine-identity-configuration-387720)                    | リポジトリの初期化     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/git-time-machine-identity-configuration-387720)          |
+|       29 | [オペレーション・クォンタム・リープ（量子跳躍作戦）](https://labex.io/ja/labs/git-operation-quantum-leap-387717)                         | リポジトリの初期化     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/git-operation-quantum-leap-387717)                       |
+|       30 | [Git の基礎：Add、Commit、Status、Diff](https://labex.io/ja/labs/shell-git-fundamentals-add-commit-status-diff-387715) | 状態検査          | 中級    | [チャレンジを開始](https://labex.io/ja/labs/shell-git-fundamentals-add-commit-status-diff-387715)    |
+|       31 | [ファイル変更のキャンセル](https://labex.io/ja/labs/git-cancel-file-change-387714)                                          | ワーキングツリー      | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-cancel-file-change-387714)                           |
+|       32 | [Git プロジェクトの初期化](https://labex.io/ja/labs/git-initialize-git-project-385166)                                    | リポジトリのクローン作成  | 中級    | [チャレンジを開始](https://labex.io/ja/labs/git-initialize-git-project-385166)                       |
 
-
-## 演習
-
-|   インデックス | 名前                                           | 難易度   | 練習                                                                                                                                                        |
-|----------------|------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 🎯  Git プロジェクトを初期化する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/git-initialize-git-project-385166?course=git-practice-challenges'>チャレンジを開始</a>                    |
-|             02 | 🎯 🆓 サブモジュールを追加する                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/add-a-submodule-12611?course=git-practice-challenges'>チャレンジを開始</a>                                |
-|             03 | 🎯 🆓 欠落しているサブモジュールをクローンする | 初級     | <a target='_blank' href='https://labex.io/ja/labs/clone-missing-submodules-12620?course=git-practice-challenges'>チャレンジを開始</a>                       |
-|             04 | 🎯 🆓 ファストフォワードマージの無効化         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/disable-fast-forward-merging-12642?course=git-practice-challenges'>チャレンジを開始</a>                   |
-|             05 | 🎯 🆓 Git 設定ファイルを編集する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/edit-git-configuration-file-12645?course=git-practice-challenges'>チャレンジを開始</a>                    |
-|             06 | 🎯 🆓 現在のブランチ名を取得する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/get-the-current-branch-name-12633?course=git-practice-challenges'>チャレンジを開始</a>                    |
-|             07 | 🎯 🆓 ブランチをマージする                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/merge-a-branch-12655?course=git-practice-challenges'>チャレンジを開始</a>                                 |
-|             08 | 🎯 🆓 既定のプッシュ ブランチ名を設定する      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/set-default-push-branch-name-12672?course=git-practice-challenges'>チャレンジを開始</a>                   |
-|             09 | 🎯 🆓 コミット間の変更を表示する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/view-changes-between-commits-12684?course=git-practice-challenges'>チャレンジを開始</a>                   |
-|             10 | 🎯 🆓 元に戻す履歴を表示する                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/view-undo-history-12696?course=git-practice-challenges'>チャレンジを開始</a>                              |
-|             11 | 🎯  ファイル変更をキャンセルする               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/git-cancel-file-change-387714?course=git-practice-challenges'>チャレンジを開始</a>                        |
-|             12 | 🎯 🆓 ステージング エリアにファイルを追加する  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/add-files-to-the-staging-area-12675?course=git-practice-challenges'>チャレンジを開始</a>                  |
-|             13 | 🎯  Git コマンドの自動修正                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/autocorrect-git-commands-12614?course=git-practice-challenges'>チャレンジを開始</a>                       |
-|             14 | 🎯 🆓 最初の人気のあるリポジトリをクローンする | 初級     | <a target='_blank' href='https://labex.io/ja/labs/clone-the-first-trending-repository-12621?course=git-practice-challenges'>チャレンジを開始</a>            |
-|             15 | 🎯 🆓 git のテキストエディタを構成する         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/configure-the-git-text-editor-12673?course=git-practice-challenges'>チャレンジを開始</a>                  |
-|             16 | 🎯 🆓 現在の状態を表示する                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/view-current-status-12695?course=git-practice-challenges'>チャレンジを開始</a>                            |
-|             17 | 🎯 🆓 リポジトリのビジュアルグラフを表示する   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/view-a-visual-graph-of-the-repository-12685?course=git-practice-challenges'>チャレンジを開始</a>          |
-|             18 | 🎯 🆓 GitHub を使った Git の設定               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/git-git-configuration-with-github-23?course=git-practice-challenges'>チャレンジを開始</a>                 |
-|             19 | 🎯  Git の基本：追加、コミット、状態、差分     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/shell-git-fundamentals-add-commit-status-diff-387715?course=git-practice-challenges'>チャレンジを開始</a> |
-|             20 | 🎯 🆓 最初の Git リポジトリを作成する          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/create-your-first-git-repository-12632?course=git-practice-challenges'>チャレンジを開始</a>               |
-
-## LabEx について
-
-[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[すべてのチャレンジを見る](https://labex.io/ja/learn/git).
 
 ## その他
 
-- 🔗 [Git プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Git プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Git 無料チュートリアル](https://github.com/labex-labs/git-free-tutorials)
+- 🔗 [LabEx で Git について詳しく見る](https://labex.io/ja/learn/git)
+- 🔗 [さらにプログラミングプロジェクトを見る](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [プログラミングコースを見る](https://github.com/labex-labs/awesome-programming-courses)
 
